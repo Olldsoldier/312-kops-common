@@ -23,7 +23,7 @@
         make deploy
 
         # you are expected to receive errors until the cluster and related resources are ready.
-        # it could take up to 10 mins for the cluster to be ready, but usually takes less than 5 mins.
+        # it could take up to 15 mins for the cluster to be ready, but usually takes less than 5 mins.
 
     # verify that everything is running properly
         kubectl get nodes
