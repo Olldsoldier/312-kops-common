@@ -78,7 +78,7 @@ spec:
   instanceMetadata:
     httpPutResponseHopLimit: 7
     httpTokens: optional
-  machineType: t3.medium
+  machineType: t3.small
   maxSize: 1
   minSize: 1
   maxPrice: "0.0418"   # to use on-demand instead, just comment out this line
